@@ -8,3 +8,5 @@
 
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: Anywhere you find me, can send-me a message, I preffer Linked In and the e-mail: mateusandriola18@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matan18)](https://github.com/anuraghazra/github-readme-stats)
