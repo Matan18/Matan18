@@ -6,7 +6,7 @@
 - [Buy List](https://github.com/Matan18/lista-de-compras-rn)
 - [Deliver Routes](https://github.com/Matan18/APPEntregas)
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I'm looking for a job, and some other forms to help with my dev skills;
 - 📫 How to reach me: Anywhere you find me, can send-me a message, I preffer Linked In and the e-mail: mateusandriola18@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matan18)](https://github.com/anuraghazra/github-readme-stats)
