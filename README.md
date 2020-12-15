@@ -9,4 +9,12 @@
 - 👯 I'm looking for a job, and some other forms to help with my dev skills;
 - 📫 How to reach me: Anywhere you find me, can send-me a message, I preffer Linked In and the e-mail: mateusandriola18@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matan18)](https://github.com/anuraghazra/github-readme-stats)
+***
+### 🛠️ GitHub Stats
+
+<a href="https://github.com/Matan18?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan18&theme=merko" />
+</a>
+<a href="https://github.com/Matan18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matan18&show_icons=true&theme=merko" />
+</a>
