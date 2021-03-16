@@ -12,9 +12,8 @@
 ***
 ### 🛠️ GitHub Stats
 
-<a href="https://github.com/Matan18?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan18&theme=merko" />
-</a>
-<a href="https://github.com/Matan18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matan18&show_icons=true&theme=merko" />
-</a>
+<div>
+  <a href="https://github.com/Matan18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matan18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matan18&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
