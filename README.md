@@ -1,6 +1,6 @@
 # Mateus Andriola
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-andriola-0ba489139/)](https://www.linkedin.com/in/mateus-andriola-0ba489139/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-andriola-0ba489139/)](https://www.linkedin.com/in/mateusandriola) 
 
 - 🌱 I’m currently learning the OmniStack (NodeJS, ReactJS, React Native), finished the bootcamp GoStack from rocketseat, and heres some of my projects:
 - [Buy List](https://github.com/Matan18/lista-de-compras-rn)
