@@ -1,26 +1,36 @@
+<p width="400px" align="right">
+<img src="/monitor.svg"/>
+</p>
+
 # Mateus Andriola
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusandriola/)](https://www.linkedin.com/in/mateusandriola/)
 
-- **💻 Desenvolvedor FullStack**, com conhecimento em ReactJS, React Native e
+<ul align="left">
+<li align="left">
+ <strong>💻 Desenvolvedor FullStack</strong>, com conhecimento em ReactJS, React Native e
   NodeJS principalmente usando Typescript:
+</li>
 
-<div style="position: absolute; right: 10px; max-width: 400px; display: flex;flex-direction: column;align-items: center;">
-<img src="/monitor.svg"/>
-<img src="/keyboard.svg"  style="transform: skewX(-10deg); width: 50%;"/>
-</div>
+<li align="left">
+ <strong>📋 Pricipais projetos</strong>:
+ <ul>
+  <li><a href="https://github.com/Matan18/APPEntregas">Deliver Routes</a></li>
+  <li><a href="https://github.com/reactjs-infinite-carousel">reactjs-infinite-carousel</a>
+  </ul>
+</li>
+<li align="left">
+  <strong>🔧 Simples Contribuições</strong>:
+  <ul>
+  <li><a href="https://github.com/bramus/react-native-maps-directions">react-native-maps-direction</a>: Adicionando tipagem e implementado instruções recebidas da API;
+  </li>
+  <li><a href="https://github.com/denodrivers/deno_mongo">deno_mongo</a>: Correção de tipagens;
+  </li>
+  </ul>
+</li>
+<li align="left">📫 l: mateusandriola18@gmail.com</li>
 
-- **📋 Pricipais projetos**:
-  - [Deliver Routes](https://github.com/Matan18/APPEntregas)
-  - [reactjs-infinite-carousel](https://github.com/reactjs-infinite-carousel)
-- **🔧 Simples Contribuições**:
-  - [react-native-maps-direction](https://github.com/bramus/react-native-maps-directions):
-    Adicionando tipagem e implementado instruções recebidas da API;
-  - [deno_mongo](https://github.com/denodrivers/deno_mongo): Correção de
-    tipagens;
-
-- 📫 l: mateusandriola18@gmail.com
-
+</ul>
 ---
 
 ### 🛠️ GitHub Stats

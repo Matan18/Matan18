@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="500" height="150">
   <filter id="f2" x="0" y="0" width="200%" height="200%">
     <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
     <feGaussianBlur result="blurOut" in="offOut" stdDeviation="5" />
     <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
   </filter>
-  <rect width="900" height="380" fill="#000000" x="0" y="0" rx="12px" ry="12px">
+  <rect width="500" height="150" fill="#000000" x="0" y="0" rx="12px" ry="12px">
   </rect>
-  <rect width="892" height="372" fill="#000000" x="4" y="4" rx="10px" ry="10px">
+  <rect width="492" height="142" fill="#000000" x="4" y="4" rx="10px" ry="10px">
     <animate attributeType="XML" attributeName="fill" values="#360F54; #FF0000; #00ff00; #360F54" dur="6s"
       repeatCount="indefinite" />
   </rect>
-  <rect width="890" height="370" fill="#000000" x="5" y="5" rx="10px" ry="10px">
+  <rect width="490" height="140" fill="#000000" x="5" y="5" rx="10px" ry="10px">
   </rect>
-  <rect width="880" height="360" fill="#111111" x="10" y="10" rx="7px" ry="7px">
+  <rect width="480" height="130" fill="#111111" x="10" y="10" rx="7px" ry="7px">
   </rect>
-  <text font-size="4rem" x="360" y="65" font-family="Source code pro, sans-serif" font-weight="500"
+  <text font-size="4rem" x="260" y="65" font-family="Source code pro, sans-serif" font-weight="500"
     filter="url(#f2)">Matan
     <animate attributeType="XML" attributeName="fill" values="#360F54; #FF000055; #00ff0055; #360F54" dur="6s"
       repeatCount="indefinite" />
