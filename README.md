@@ -16,7 +16,10 @@
 
 - 📫 E-mail para contato: mateusandriola18@gmail.com
 
-![](/monitor.svg)
+
+<div align="center">
+  <img src="/monitor.svg" />
+</div>
 
 ---
 
