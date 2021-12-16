@@ -1,0 +1,645 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 545 171" width="545" height="171">
+
+  <defs>
+    <filter id="purple-shadow" x="0" y="0" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="rgba(63,15,100, 1)"></feDropShadow>
+    </filter>
+  </defs>
+  <rect id="eJ1pSTnkQyV2" width="545" height="171" rx="5" ry="5" fill="#555555"></rect>
+
+  <g id="leds">
+    <circle r="1" cy="13" cx="452" fill="#2345BC" />
+    <circle r="1" cy="13" cx="470" fill="#C4C4C4" />
+    <circle r="1" cy="13" cx="488" fill="#C4C4C4" />
+    <circle r="1" cy="13" cx="506" fill="#C4C4C4" />
+  </g>
+
+  <g id=" funcions">
+    <rect id="esc" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="9"
+      y="11" z="40">
+      <animate type="translate" attributeName="x" values="9;8;9" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <g id="first-section">
+      <rect id="function-1" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="58" y="11">
+        <animate type="translate" attributeName="x" values="58;57;58" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-2" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="81" y="11">
+        <animate type="translate" attributeName="x" values="81;80;81" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-3" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="104" y="11">
+        <animate type="translate" attributeName="x" values="104;103;104" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-4" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="127" y="11">
+        <animate type="translate" attributeName="x" values="127;126;127" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="second-section">
+      <rect id="function-5" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="162" y="11">
+        <animate type="translate" attributeName="x" values="162;161;162" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-6" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="185" y="11">
+        <animate type="translate" attributeName="x" values="185;184;185" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-7" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="208" y="11">
+        <animate type="translate" attributeName="x" values="208;207;208" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-8" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="231" y="11">
+        <animate type="translate" attributeName="x" values="231;230;231" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="third-section">
+      <rect id="function-9" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="266" y="11">
+        <animate type="translate" attributeName="x" values="266;265;266" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-10" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="289" y="11">
+        <animate type="translate" attributeName="x" values="289;288;289" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-11" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="312" y="11">
+        <animate type="translate" attributeName="x" values="312;311;312" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-12" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="335" y="11">
+        <animate type="translate" attributeName="x" values="335;334;335" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="options">
+      <rect id="function-9" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="365" y="11">
+        <animate type="translate" attributeName="x" values="365;364;365" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-10" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="388" y="11">
+        <animate type="translate" attributeName="x" values="388;387;388" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="function-11" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="411" y="11">
+        <animate type="translate" attributeName="x" values="411;410;411" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="11;10;11" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <g id="qwerty">
+    <g id="qwerty-first-line">
+      <rect id="quotes" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="11"
+        y="41">
+        <animate type="translate" attributeName="x" values="11;10;11" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-1" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="34" y="41">
+        <animate type="translate" attributeName="x" values="34;33;34" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-2" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="57" y="41">
+        <animate type="translate" attributeName="x" values="57;56;57" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-3" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="80" y="41">
+        <animate type="translate" attributeName="x" values="80;79;80" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-4" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="103" y="41">
+        <animate type="translate" attributeName="x" values="103;102;103" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-5" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="126" y="41">
+        <animate type="translate" attributeName="x" values="126;125;126" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-6" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="149" y="41">
+        <animate type="translate" attributeName="x" values="149;148;149" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-7" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="172" y="41">
+        <animate type="translate" attributeName="x" values="172;171;172" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-8" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="195" y="41">
+        <animate type="translate" attributeName="x" values="195;194;195" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-9" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="218" y="41">
+        <animate type="translate" attributeName="x" values="218;217;218" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-0" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="241" y="41">
+        <animate type="translate" attributeName="x" values="241;240;241" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-minus" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="264" y="41">
+        <animate type="translate" attributeName="x" values="264;263;264" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-equal" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="287" y="41">
+        <animate type="translate" attributeName="x" values="287;286;287" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-end-brackets" width="16" height="16" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="310" y="41">
+        <animate type="translate" attributeName="x" values="310;309;310" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="header-backspace" width="16" height="16" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="333" y="41">
+        <animate type="translate" attributeName="x" values="333;332;333" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="qwerty-second-line">
+      <rect id="tab" width="26" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="11"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="11;10;11" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="q" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="47"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="47;46;47" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="w" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="70"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="70;69;70" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="e" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="93"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="93;92;93" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="r" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="116"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="116;115;116" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="t" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="139"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="139;138;139" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="y" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="162"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="162;161;162" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="u" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="185"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="185;184;185" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="i" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="208"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="208;207;208" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="o" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="231"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="231;230;231" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="p" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="254"
+        y="64.5">
+        <animate type="translate" attributeName="x" values="254;253;254" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="accent" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="277" y="64.5">
+        <animate type="translate" attributeName="x" values="277;276;277" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="start-brackets" width="16" height="16" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="300" y="64.5">
+        <animate type="translate" attributeName="x" values="300;299;300" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64.5;63.5;64.5" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <path id="enter" d="M 327 64
+        L 346 64
+        Q 348 64 348 66
+        L 348 100
+        Q 348 102 346 102
+        L 332 102
+        Q 330 102 330 100
+        L 330 83
+        Q 330 81 328 81
+        L 327 81
+        Q 325 81 325 79
+        L 325 66
+        Q 325 64 327 64" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)">
+        <animate type="translate" attributeName="d" values="
+        M 327 64
+        L 346 64
+        Q 348 64 348 66
+        L 348 100
+        Q 348 102 346 102
+        L 332 102
+        Q 330 102 330 100
+        L 330 83
+        Q 330 81 328 81
+        L 327 81
+        Q 325 81 325 79
+        L 325 66
+        Q 325 64 327 64;
+        M 326 63
+        L 345 63
+        Q 347 63 347 65
+        L 347 99
+        Q 346 101 345 101
+        L 329 101
+        Q 329 101 329 99
+        L 329 82
+        Q 329 80 329 80
+        L 326 80
+        Q 324 80 324 78
+        L 324 65
+        Q 324 63 326 63;
+        M 327 64
+        L 346 64
+        Q 348 64 348 66
+        L 348 100
+        Q 348 102 346 102
+        L 332 102
+        Q 330 102 330 100
+        L 330 83
+        Q 330 81 328 81
+        L 327 81
+        Q 325 81 325 79
+        L 325 66
+        Q 325 64 327 64" dur="2s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g id="qwerty-third-line">
+      <rect id="caps" width="31" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="11"
+        y="87">
+        <animate type="translate" attributeName="x" values="11;10;11" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="a" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="52"
+        y="87">
+        <animate type="translate" attributeName="x" values="52;51;52" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="s" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="75"
+        y="87">
+        <animate type="translate" attributeName="x" values="75;74;75" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="d" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="98"
+        y="87">
+        <animate type="translate" attributeName="x" values="98;97;98" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="f" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="121"
+        y="87">
+        <animate type="translate" attributeName="x" values="121;120;121" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="g" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="144"
+        y="87">
+        <animate type="translate" attributeName="x" values="144;143;144" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="h" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="167"
+        y="87">
+        <animate type="translate" attributeName="x" values="167;166;167" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="j" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="190"
+        y="87">
+        <animate type="translate" attributeName="x" values="190;189;190" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="k" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="213"
+        y="87">
+        <animate type="translate" attributeName="x" values="213;212;213" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="l" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="236"
+        y="87">
+        <animate type="translate" attributeName="x" values="236;235;236" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="ç" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="259"
+        y="87">
+        <animate type="translate" attributeName="x" values="259;257;259" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="tilda" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="282"
+        y="87">
+        <animate type="translate" attributeName="x" values="282;281;282" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="slash" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="305"
+        y="87">
+        <animate type="translate" attributeName="x" values="305;304;305" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="qwerty-forth-line">
+      <rect id="left-shift" width="20" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="11" y="110">
+        <animate type="translate" attributeName="x" values="11;10;11" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="counter-slash" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="41" y="110">
+        <animate type="translate" attributeName="x" values="41;40;41" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="z" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="64"
+        y="110">
+        <animate type="translate" attributeName="x" values="64;63;64" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="x" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="87"
+        y="110">
+        <animate type="translate" attributeName="x" values="87;86;87" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="c" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="110"
+        y="110">
+        <animate type="translate" attributeName="x" values="110;109;110" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="v" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="133"
+        y="110">
+        <animate type="translate" attributeName="x" values="133;132;133" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="b" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="156"
+        y="110">
+        <animate type="translate" attributeName="x" values="156;155;156" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="n" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="179"
+        y="110">
+        <animate type="translate" attributeName="x" values="179;178;179" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="m" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="202"
+        y="110">
+        <animate type="translate" attributeName="x" values="202;201;202" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-comma" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="225" y="110">
+        <animate type="translate" attributeName="x" values="225;224;225" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-dot" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="248" y="110">
+        <animate type="translate" attributeName="x" values="248;247;248" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-dot" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="271" y="110">
+        <animate type="translate" attributeName="x" values="271;270;271" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-dot" width="51" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="298" y="110">
+        <animate type="translate" attributeName="x" values="298;297;298" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="qwerty-fifth-line">
+      <rect id="qwerty-left-ctrl" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="11" y="133">
+        <animate type="translate" attributeName="x" values="11;10;11" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-windows" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="42" y="133">
+        <animate type="translate" attributeName="x" values="42;41;42" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-left-alt" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="73" y="133">
+        <animate type="translate" attributeName="x" values="73;72;73" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-space" width="133" height="25" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="101" y="133">
+        <animate type="translate" attributeName="x" values="101;100;101" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-right-alt" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="244" y="133">
+        <animate type="translate" attributeName="x" values="244;243;244" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-function" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="272" y="133">
+        <animate type="translate" attributeName="x" values="272;271;272" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-lights" width="20" height="25" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="302" y="133">
+        <animate type="translate" attributeName="x" values="302;301;302" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="qwerty-right-ctrl" width="20" height="25" stroke="none" rx="2px" fill="#000000"
+        filter="url(#purple-shadow)" x="331" y="133">
+        <animate type="translate" attributeName="x" values="331;330;331" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+
+    </g>
+  </g>
+
+  <g id="navigation-keyboard">
+    <rect id="insert" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="365"
+      y="41">
+      <animate type="translate" attributeName="x" values="365;364;365" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="home" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="388"
+      y="41">
+      <animate type="translate" attributeName="x" values="388;387;388" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="page-up" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="411"
+      y="41">
+      <animate type="translate" attributeName="x" values="411;410;411" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="delete" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="365"
+      y="64">
+      <animate type="translate" attributeName="x" values="365;364;365" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="end" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="388"
+      y="64">
+      <animate type="translate" attributeName="x" values="388;387;388" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="page-down" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+      x="411" y="64">
+      <animate type="translate" attributeName="x" values="411;410;411" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g id="arrow-keyboard">
+    <rect id="arrow-left" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+      x="365" y="141">
+      <animate type="translate" attributeName="x" values="365;364;365" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="141;140;141" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="arrow-right" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+      x="411" y="141">
+      <animate type="translate" attributeName="x" values="411;410;411" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="141;140;141" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="arrow-top" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+      x="388" y="118">
+      <animate type="translate" attributeName="x" values="388;387;388" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="118;117;118" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <rect id="num-enter" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+      x="388" y="141">
+      <animate type="translate" attributeName="x" values="388;387;388" dur="2s" repeatCount="indefinite" />
+      <animate type="translate" attributeName="y" values="141;140;141" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g id="number-keyboard">
+    <g id="number-first-line">
+      <rect id="num-lock" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="441" y="41">
+        <animate type="translate" attributeName="x" values="441;440;441" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-divide" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="464" y="41">
+        <animate type="translate" attributeName="x" values="464;463;464" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-multi" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="487" y="41">
+        <animate type="translate" attributeName="x" values="487;486;487" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-minus" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="510" y="41">
+        <animate type="translate" attributeName="x" values="510;509;510" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="41;40;41" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="number-second-line">
+      <rect id="num-7" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="441"
+        y="64">
+        <animate type="translate" attributeName="x" values="441;440;441" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-8" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="464"
+        y="64">
+        <animate type="translate" attributeName="x" values="464;463;464" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-9" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="487"
+        y="64">
+        <animate type="translate" attributeName="x" values="487;486;487" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-plus" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="510" y="64">
+        <animate type="translate" attributeName="x" values="510;509;510" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="64;63;64" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="number-third-line">
+      <rect id="num-4" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="441"
+        y="87">
+        <animate type="translate" attributeName="x" values="441;440;441" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-5" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="464"
+        y="87">
+        <animate type="translate" attributeName="x" values="464;463;464" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-6" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="487"
+        y="87">
+        <animate type="translate" attributeName="x" values="487;486;487" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-dot" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="510" y="87">
+        <animate type="translate" attributeName="x" values="510;509;510" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="87;86;87" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="number-fourth-line">
+      <rect id="num-1" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="441"
+        y="110">
+        <animate type="translate" attributeName="x" values="441;440;441" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-2" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="464"
+        y="110">
+        <animate type="translate" attributeName="x" values="464;463;464" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-3" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="487"
+        y="110">
+        <animate type="translate" attributeName="x" values="487;486;487" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-enter" width="16" height="39" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="510" y="110">
+        <animate type="translate" attributeName="x" values="510;509;510" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="110;109;110" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+    <g id="number-fifth-line">
+      <rect id="num-0" width="39" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)" x="441"
+        y="133">
+        <animate type="translate" attributeName="x" values="441;440;441" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+      <rect id="num-comma" width="16" height="16" stroke="none" rx="2px" fill="#000000" filter="url(#purple-shadow)"
+        x="487" y="133">
+        <animate type="translate" attributeName="x" values="487;486;487" dur="2s" repeatCount="indefinite" />
+        <animate type="translate" attributeName="y" values="133;132;133" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+</svg>

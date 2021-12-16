@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="400">
+  <filter id="f2" x="0" y="0" width="200%" height="200%">
+    <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5" />
+    <feGaussianBlur result="blurOut" in="offOut" stdDeviation="5" />
+    <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+  </filter>
+  <rect width="900" height="380" fill="#000000" x="0" y="0" rx="12px" ry="12px">
+  </rect>
+  <rect width="892" height="372" fill="#000000" x="4" y="4" rx="10px" ry="10px">
+    <animate attributeType="XML" attributeName="fill" values="#360F54; #FF0000; #00ff00; #360F54" dur="6s"
+      repeatCount="indefinite" />
+  </rect>
+  <rect width="890" height="370" fill="#000000" x="5" y="5" rx="10px" ry="10px">
+  </rect>
+  <rect width="880" height="360" fill="#111111" x="10" y="10" rx="7px" ry="7px">
+  </rect>
+  <text font-size="4rem" x="360" y="65" font-family="Source code pro, sans-serif" font-weight="500"
+    filter="url(#f2)">Matan
+    <animate attributeType="XML" attributeName="fill" values="#360F54; #FF000055; #00ff0055; #360F54" dur="6s"
+      repeatCount="indefinite" />
+  </text>
+  <text font-size="1rem" x="20" fill="#555555" y="30" font-family="Source code pro, sans-serif" font-weight="400">
+    <tspan>
+      <tspan fill="#11ff1133">andriola</tspan>
+      <tspan fill="#6666FFaa">:~$</tspan>
+      <tspan>echo $USER</tspan>
+    </tspan>
+    <tspan dy="1.4em" x="20">
+      Mateus Andriola
+    </tspan>
+    <tspan dy="1.4em" x="20">
+      <tspan fill="#11ff1133">andriola</tspan>
+      <tspan fill="#6666FFaa">:~$</tspan>
+      <tspan>echo $TECS</tspan>
+    </tspan>
+    <tspan dy="1.4em" x="20">ReactJS, NodeJS, React Native,</tspan>
+    <tspan dy="1.4em" x="20"> Typescript, PostgreSQL, MongoDB</tspan>
+  </text>
+
+
+
+
+</svg>

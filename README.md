@@ -1,15 +1,28 @@
 # Mateus Andriola
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-andriola-0ba489139/)](https://www.linkedin.com/in/mateusandriola) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Andriola-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusandriola/)](https://www.linkedin.com/in/mateusandriola/)
 
-- 🌱 I’m currently learning the OmniStack (NodeJS, ReactJS, React Native), finished the bootcamp GoStack from rocketseat, and heres some of my projects:
-- [Buy List](https://github.com/Matan18/lista-de-compras-rn)
-- [Deliver Routes](https://github.com/Matan18/APPEntregas)
+- **💻 Desenvolvedor FullStack**, com conhecimento em ReactJS, React Native e
+  NodeJS principalmente usando Typescript:
 
-- 👯 I'm looking for a job, and some other forms to help with my dev skills;
-- 📫 How to reach me: Anywhere you find me, can send-me a message, I preffer Linked In and the e-mail: mateusandriola18@gmail.com
+<div style="position: absolute; right: 10px; max-width: 400px; display: flex;flex-direction: column;align-items: center;">
+<img src="/monitor.svg"/>
+<img src="/keyboard.svg"  style="transform: skewX(-10deg); width: 50%;"/>
+</div>
 
-***
+- **📋 Pricipais projetos**:
+  - [Deliver Routes](https://github.com/Matan18/APPEntregas)
+  - [reactjs-infinite-carousel](https://github.com/reactjs-infinite-carousel)
+- **🔧 Simples Contribuições**:
+  - [react-native-maps-direction](https://github.com/bramus/react-native-maps-directions):
+    Adicionando tipagem e implementado instruções recebidas da API;
+  - [deno_mongo](https://github.com/denodrivers/deno_mongo): Correção de
+    tipagens;
+
+- 📫 l: mateusandriola18@gmail.com
+
+---
+
 ### 🛠️ GitHub Stats
 
 <div>
