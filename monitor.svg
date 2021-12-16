@@ -14,7 +14,7 @@
   </rect>
   <rect width="480" height="130" fill="#111111" x="10" y="10" rx="7px" ry="7px">
   </rect>
-  <text font-size="4rem" x="260" y="65" font-family="Source code pro, sans-serif" font-weight="500"
+  <text font-size="3rem" x="300" y="55" font-family="Source code pro, sans-serif" font-weight="500"
     filter="url(#f2)">Matan
     <animate attributeType="XML" attributeName="fill" values="#360F54; #FF000055; #00ff0055; #360F54" dur="6s"
       repeatCount="indefinite" />
