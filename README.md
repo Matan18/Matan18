@@ -5,7 +5,7 @@
 - **💻 Desenvolvedor FullStack**, com conhecimento em ReactJS, React Native e
   NodeJS principalmente usando Typescript:
 
-- **📋 Pricipais projetos**:
+- **📋 Principais projetos**:
   - [Deliver Routes](https://github.com/Matan18/APPEntregas)
   - [reactjs-infinite-carousel](https://github.com/reactjs-infinite-carousel)
 - **🔧 Simples Contribuições**:
